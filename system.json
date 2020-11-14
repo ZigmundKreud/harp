@@ -23,7 +23,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/ZigmundKreud/harp",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/ZigmundKreud/harp/master/system.json",
+  "download": "https://github.com/ZigmundKreud/harp/archive/master.zip",
   "license": "LICENSE.txt"
 }
