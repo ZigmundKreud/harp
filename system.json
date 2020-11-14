@@ -1,10 +1,10 @@
 {
   "name": "harp",
   "title": "High Adventure Roleplaying",
-  "description": "The High Adventure Roleplaying system for FoundryVTT!",
+  "description": "The High Adventure Roleplaying system for FoundryVTT",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.5.5",
+  "minimumCoreVersion": "0.7.3",
+  "compatibleCoreVersion": "0.7.7",
   "templateVersion": 2,
   "author": "Zigmund",
   "esmodules": ["module/harp.js"],
@@ -22,7 +22,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
+  "url": "https://github.com/ZigmundKreud/harp",
   "manifest": "",
   "download": "",
   "license": "LICENSE.txt"
